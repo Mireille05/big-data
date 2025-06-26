@@ -67,27 +67,26 @@ This program:
 
 ---
 
-   
+## Question 3: Iterate Over Two Text Inputs
 
+### Description:
+This program:
+- Prompts the user to **enter two separate text inputs**
+-  Combines both texts into one string
+- Iterates over the combined text to extract each character into a list
+- Returns and prints the list of characters
+- Displays a thank-you message after processing
 
+### Concepts Used:
+- String concatenation
+- Character iteration with `list()`
+- Function return values
+- Console output
 
+### CODES:
+![Image](https://github.com/user-attachments/assets/9bcc42f1-898e-4f82-84e0-65cc293d7478)
 
+### OUTPUT
+![Image](https://github.com/user-attachments/assets/dcc75ec3-e715-41c2-8304-3628dfd268e1)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+---

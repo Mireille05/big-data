@@ -11,7 +11,7 @@
    
 # User Input and Functions
 
-This repository contains solutions to basic Python programming tasks that focus on using `input()` and functions to interact with users and process data. Each task is implemented as a separate Python script.
+This repository contains solutions to class group work of python programming tasks that focus on using `input()` and functions.
 
 ---
 

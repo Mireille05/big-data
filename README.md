@@ -6,8 +6,8 @@
 4. YYG
 5. IIU
 6. YYG
-   ## DESCFRTYY
-   Q1
+   ## DESCription
+   
 # User Input and Functions
 
 This repository contains solutions to basic Python programming tasks that focus on using `input()` and functions to interact with users and process data. Each task is implemented as a separate Python script.
@@ -16,7 +16,7 @@ This repository contains solutions to basic Python programming tasks that focus 
 
 ## Question 1: Age Calculator Using a Function
 
-### 💡 Description:
+### Description:
 This program prompts the user to:
 - Enter their **name**
 - Enter their **year of birth**

@@ -1,12 +1,13 @@
 ## GROUP MEMBERS
 
-1. MIREE
-2. KUJJ
-3. YGG
-4. YYG
-5. IIU
-6. YYG
-   ## DESCription
+1. Kubwayo Elyse Mirelle 26490
+2. Benineza Moise 26464
+3. Igiraneza Honette 27707
+4. Uwayo Olga 26139
+5. Kwizera Olivier 25322
+6. Isimbi Mushimire Iris 27121
+
+   ## DESCRIPTION
    
 # User Input and Functions
 
@@ -65,11 +66,6 @@ This program:
 ![Image](https://github.com/user-attachments/assets/8c765fc0-e3a3-4c70-b765-c42c5b500c14)
 
 ---
-
-
-
-
-   Q3
 
    
 

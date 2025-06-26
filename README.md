@@ -1,4 +1,4 @@
-## GROUP MEMBERS
+## GROUP 10 MEMBERS
 
 1. Kubwayo Elyse Mirelle 26490
 2. Benineza Moise 26464

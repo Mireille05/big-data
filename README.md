@@ -90,3 +90,8 @@ This program:
 ![Image](https://github.com/user-attachments/assets/dcc75ec3-e715-41c2-8304-3628dfd268e1)
 
 ---
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

@@ -35,15 +35,36 @@ It then:
 ### CODES:
 ![Image](https://github.com/user-attachments/assets/3f723679-5e6e-48d2-9dcb-230051a13bd4)
 
-### Output
+### OUTPUT
 ![Image](https://github.com/user-attachments/assets/78fa769e-1366-4f63-a7a3-309cc2bfd64d)
 
 ---
 
+## Question 2: Palindrome Checker
 
+### Description:
+This program:
+- Asks the user to enter a string
+- Checks whether the string is a **palindrome** (reads the same forwards and backwards)
+- Outputs either:
+  - `"Yes, it is a palindrome"` or  
+  - `"No, it is not a palindrome"`
 
+### Concepts Used:
+- User input with `input()`
+- String manipulation and comparison
+- Function definition
+- Conditional statements
 
-   Q2
+### CODES:
+![Image](https://github.com/user-attachments/assets/b814dfe9-9136-4d51-8f48-fb05874298f0)
+
+### OUTPUT
+![Image](https://github.com/user-attachments/assets/3b3cc600-1761-4390-bb1b-b524e6dc87d3)
+
+![Image](https://github.com/user-attachments/assets/8c765fc0-e3a3-4c70-b765-c42c5b500c14)
+
+---
 
 
 
